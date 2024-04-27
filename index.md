@@ -7,3 +7,10 @@ var name = "christo"
 var lang = "javaScript"
 console.log(`I ${name} is a ${lang} programmer)
 ```
+Become a frontender
+- [x] Learn HTML, CSS and Bootstrap
+- [x] Learn javaScript
+- [ ] Learn react.js
+- [ ] Learn Next.js
+- [ ] Learn React Native
+- [ ] Learn solidity/etherium
